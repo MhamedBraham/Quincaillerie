@@ -1,0 +1,10 @@
+create package json
+npm init
+
+install libreries
+npm install crypto
+npm install uuid
+npm install mysql
+npm install body-parser
+npm install express
+
